@@ -1,6 +1,6 @@
 {
-  "name": "04_nodepackagemanager",
-  "version": "1.0.0",
+  "name": "node-package-manager",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
